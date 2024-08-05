@@ -24,11 +24,9 @@
 
 <br />
 
-### 🖋️ Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Website Redesign](https://blog.kasralekan.com/ideas/website-revamp/)
-- [Night Mode](https://blog.kasralekan.com/ideas/dark/)
-<!-- BLOG-POST-LIST:END -->
+<!-- ### 🖋️ Latest Blog posts -->
+<!-- dddBLOG-POST-LIST:START -->
+<!-- dddBLOG-POST-LIST:END -->
 
 <br />
 
