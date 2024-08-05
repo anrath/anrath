@@ -26,6 +26,8 @@
 
 ### 🖋️ Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Website Redesign](https://blog.kasralekan.com/ideas/website-revamp/)
+- [Night Mode](https://blog.kasralekan.com/ideas/dark/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
