@@ -26,6 +26,8 @@
 
 ### 🖋️ Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Langage Model Performance Plateaus. What’s next?](https://blog.kasralekan.com/ideas/lm-performance-plateau/)
+- [Website Redesign](https://blog.kasralekan.com/ideas/website-revamp/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
