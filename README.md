@@ -24,9 +24,9 @@
 
 <br />
 
-<!-- ### 🖋️ Latest Blog posts -->
-<!-- dddBLOG-POST-LIST:START -->
-<!-- dddBLOG-POST-LIST:END -->
+### 🖋️ Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br />
 
