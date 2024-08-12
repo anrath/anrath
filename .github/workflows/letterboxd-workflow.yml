@@ -1,0 +1,62 @@
+name: Update Letterboxd Reviews
+
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-letterboxd:
+    name: Update this repo's README with latest reviews from Letterboxd
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Update Letterboxd Reviews
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://letterboxd.com/anrath/rss/"
+          comment_tag_name: MOVIE-LIST
+          custom_tags: "filmTitle/letterboxd:filmtitle/,reviewDate/letterboxd:watcheddate/,rating/letterboxd:memberrating/"
+          date_format: "mmm d, yyyy"
+          item_exec: |
+            // Skip entries that are lists
+            if (post.link.includes('/list/')) {
+              post.skip = true;
+            }
+
+            // Clean the description to remove image tags and auto-generated text
+            post.description = post.description.replace(/<img[^>]+>/g, '');
+            const autoTextPattern = /Watched on (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) (January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}\./;
+            if (autoTextPattern.test(post.description.trim())) {
+              post.description = '';
+            }
+
+            // Convert rating to stars
+            let rating = parseFloat(post.rating);
+            post.rating = '';
+            for (let i = 0; i < 5; i++) {
+              if (rating >= 1) {
+                post.rating += '★';
+              } else if (rating >= 0.5) {
+                post.rating += '☆';
+              } else {
+                break;
+              }
+              rating -= 1;
+            }
+
+          template: |
+            <tr>
+              <td><a href="$url"><img width="100px" src="$thumbnail"></a></td>
+              <td><a href="$url"><strong>$filmTitle ($reviewDate)</strong></a><br/>
+              Rating: $rating<br/>
+              $description</td>
+            </tr>
+=

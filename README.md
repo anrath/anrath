@@ -30,6 +30,11 @@
 - [Website Redesign](https://blog.kasralekan.com/ideas/website-revamp/)
 <!-- BLOG-POST-LIST:END -->
 
+### 🎬 Latest Movies
+<!-- MOVIE-LIST:START -->
+<!-- MOVIE-LIST:END -->
+
+
 <br />
 
 <div align="center">
