@@ -51,7 +51,7 @@ jobs:
             console.log(post);
           template: |
             <tr>
-              <td><a href="$url" target="_blank"><img src="$imgSrc"></a></td>
+              <td><a href="$url" target="_blank"><img src="$categories"></a></td>
               <td><a href="$url" target="_blank"><strong>$title ($date)</strong></a><br/>
               $description</td>
             </tr>
