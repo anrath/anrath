@@ -25,15 +25,22 @@ jobs:
           custom_tags: "filmTitle/letterboxd:filmtitle/,reviewDate/letterboxd:watcheddate/,rating/letterboxd:memberrating/"
           date_format: "mmm d, yyyy"
           item_exec: |
+            console.log(post);
+            console.log(post.filmTitle);
+            console.log(post.reviewDate);
             // Clean the description to remove image tags and auto-generated text
+            console.log(post.description);
             post.description = post.description.replace(/<img[^>]+>/g, '');
             const autoTextPattern = /Watched on (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) (January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}\./;
             if (autoTextPattern.test(post.description.trim())) {
               post.description = '';
             }
+            console.log(post.description);
 
             // Convert rating to stars
+            console.log(post.rating);
             let rating = parseFloat(post.rating);
+            console.log(rating);
             post.rating = '';
             for (let i = 0; i < 5; i++) {
               if (rating >= 1) {
@@ -45,11 +52,12 @@ jobs:
               }
               rating -= 1;
             }
+            console.log(post.rating);
 
           template: |
-            <tr>
+            \n<tr>
               <td><a href="$url"><img width="100px" src="$thumbnail"></a></td>
               <td><a href="$url"><strong>$filmTitle ($reviewDate)</strong></a><br/>
               Rating: $rating<br/>
               $description</td>
-            </tr>
+            </tr>\n

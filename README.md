@@ -32,6 +32,13 @@
 
 <br />
 
+### 🎬 Latest Movies
+<table>
+<!-- MOVIE-LIST:START -->
+<!-- MOVIE-LIST:END -->
+</table>
+
+
 <div align="center">
 All code produced with ❤️ 
 </div>
