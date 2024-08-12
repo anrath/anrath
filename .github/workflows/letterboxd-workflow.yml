@@ -32,7 +32,7 @@ jobs:
             // Extracting img.src
             const imgSrcMatch = post.description.match(/<img[^>]+src="([^">]+)"/);
             post.imgSrc = imgSrcMatch ? imgSrcMatch[1] : null;
-            post.categories.append(post.imgSrc);
+            post.categories.push(post.imgSrc);
 
             // Extracting text within the second <p> tag (assuming it's the "Watched on" text)
             const descriptionExtractMatch = post.description.match(/<p>(.*?)<\/p>/g);
@@ -42,12 +42,12 @@ jobs:
             if (autoTextPattern.test(post.descriptionExtractText)) {
               post.descriptionExtractText = '';
             }
-            post.categories.append(post.descriptionExtractText);
+            post.categories.push(post.descriptionExtractText);
 
             // Formatting the date
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
             post.formattedDate = post.date.toLocaleDateString('en-US', options);
-            post.categories.append(post.formattedDate);
+            post.categories.push(post.formattedDate);
 
             console.log(post);
           template: |
