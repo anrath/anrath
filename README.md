@@ -21,6 +21,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/anrath/README_icons/main/language_and_tools/square/css/css.svg" align="left" alt="CSS" height='42px'/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/anrath/README_icons/main/language_and_tools/square/html/html.svg" align="left" alt="HTML" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/anrath/README_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<br />
 
 ### 🖋️ Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
