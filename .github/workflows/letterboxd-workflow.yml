@@ -24,6 +24,7 @@ jobs:
           custom_tags: "filmTitle/letterboxd:filmtitle/,reviewDate/letterboxd:watcheddate/,rating/letterboxd:memberrating/"
           comment_tag_name: MOVIE-LIST
           date_format: "mmm d, yyyy"
+          max_post_count: 3
           item_exec: |
             // Remove /anrath from the URL
             post.url = post.url.replace(/\/anrath/g, '');
@@ -50,7 +51,7 @@ jobs:
             console.log(post);
           template: |
             <tr>
-              <td><a href="$url"><img src="$post.categories"></a></td>
-              <td><a href="$url"><strong>$title ($date)</strong></a><br/>
-              $post.description</td>
+              <td><a href="$url" target="_blank"><img src="$imgSrc"></a></td>
+              <td><a href="$url" target="_blank"><strong>$title ($date)</strong></a><br/>
+              $description</td>
             </tr>
