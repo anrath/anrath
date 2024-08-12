@@ -32,7 +32,11 @@
 
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 <!-- MOVIE-LIST:START -->
-<!-- MOVIE-LIST:END -->
+ - [McFarland, USA, 2015 - ★★★★½](https://letterboxd.com/film/mcfarland-usa/) **(Aug 11, 2024)**
+ - [Pulp Fiction, 1994 - ★★★★](https://letterboxd.com/film/pulp-fiction/) **(Aug 10, 2024)**
+ - [Once Upon a Time… in Hollywood, 2019 - ★★★★](https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/) **(Aug 10, 2024)**
+ - [10 Things I Hate About You, 1999 - ★★★★★](https://letterboxd.com/film/10-things-i-hate-about-you/) **(Aug 9, 2024)**
+ - [Save the Last Dance, 2001 - ★★★](https://letterboxd.com/film/save-the-last-dance/) **(Aug 9, 2024)**<!-- MOVIE-LIST:END -->
 
 <br />
 
