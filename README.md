@@ -22,8 +22,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/anrath/README_icons/main/language_and_tools/square/html/html.svg" align="left" alt="HTML" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/anrath/README_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br />
-
 ### 🖋️ Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Langage Model Performance Plateaus. What’s next?](https://blog.kasralekan.com/ideas/lm-performance-plateau/)
@@ -32,13 +30,7 @@
 
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 <!-- MOVIE-LIST:START -->
- - [McFarland, USA, 2015 - ★★★★½](https://letterboxd.com/film/mcfarland-usa/) **(Aug 11, 2024)**
- - [Pulp Fiction, 1994 - ★★★★](https://letterboxd.com/film/pulp-fiction/) **(Aug 10, 2024)**
- - [Once Upon a Time… in Hollywood, 2019 - ★★★★](https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/) **(Aug 10, 2024)**
- - [10 Things I Hate About You, 1999 - ★★★★★](https://letterboxd.com/film/10-things-i-hate-about-you/) **(Aug 9, 2024)**
- - [Save the Last Dance, 2001 - ★★★](https://letterboxd.com/film/save-the-last-dance/) **(Aug 9, 2024)**<!-- MOVIE-LIST:END -->
-
-<br />
+<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
