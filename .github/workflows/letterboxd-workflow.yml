@@ -48,8 +48,15 @@ jobs:
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
             post.date = post.date.toLocaleDateString('en-US', options);
           template: |
-            <tr>
-              <td style="width: 35%"><a href="$url" target="_blank"><img src="$categories"></a></td>
-              <td><a href="$url" target="_blank"><strong>$title</strong></a><br/>
-              ($date) $description</td>
-            </tr>
+            <div style="display: flex; align-items: center; margin-bottom: 10px;">
+              <div>
+                <a href="$url" target="_blank">
+                  <img src="$categories" style="width: 100%;" alt="$title Poster">
+                </a>
+              </div>
+              <div>
+                <a href="$url" target="_blank"><strong>$title</strong></a><br/>
+                <em>($date)</em>
+              </div>
+            </div>
+            <br />
