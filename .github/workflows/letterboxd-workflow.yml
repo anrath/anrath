@@ -24,7 +24,7 @@ jobs:
           custom_tags: "filmTitle/letterboxd:filmtitle/,reviewDate/letterboxd:watcheddate/,rating/letterboxd:memberrating/"
           comment_tag_name: MOVIE-LIST
           date_format: "mmm d, yyyy"
-          max_post_count: 3
+          max_post_count: 1
           item_exec: |
             // Remove /anrath from the URL
             post.url = post.url.replace(/\/anrath/g, '');
