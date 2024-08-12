@@ -51,7 +51,7 @@ jobs:
             <div style="display: flex; align-items: center; margin-bottom: 10px;">
               <div>
                 <a href="$url" target="_blank">
-                  <img src="$categories" style="width: 100%;" alt="$title Poster">
+                  <img src="$categories" style="width: 10em;" alt="$title Poster">
                 </a>
               </div>
               <div>
