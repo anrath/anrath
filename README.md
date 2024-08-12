@@ -34,32 +34,8 @@
 
 ### 🎬 Latest Movies
 <table>
-<!-- MOVIE-LIST:START -->\n<tr>
-  <td><a href="https://letterboxd.com/anrath/film/mcfarland-usa/"><img width="100px" src="$thumbnail"></a></td>
-  <td><a href="https://letterboxd.com/anrath/film/mcfarland-usa/"><strong> ()</strong></a><br/>
-  Rating: <br/>
-  </td>
-</tr>\n\n<tr>
-  <td><a href="https://letterboxd.com/anrath/film/pulp-fiction/"><img width="100px" src="$thumbnail"></a></td>
-  <td><a href="https://letterboxd.com/anrath/film/pulp-fiction/"><strong> ()</strong></a><br/>
-  Rating: <br/>
-  </td>
-</tr>\n\n<tr>
-  <td><a href="https://letterboxd.com/anrath/film/once-upon-a-time-in-hollywood/1/"><img width="100px" src="$thumbnail"></a></td>
-  <td><a href="https://letterboxd.com/anrath/film/once-upon-a-time-in-hollywood/1/"><strong> ()</strong></a><br/>
-  Rating: <br/>
-   &lt;p&gt;&lt;/p&gt; &lt;p&gt;We&#39;re home&lt;/p&gt; </td>
-</tr>\n\n<tr>
-  <td><a href="https://letterboxd.com/anrath/film/10-things-i-hate-about-you/"><img width="100px" src="$thumbnail"></a></td>
-  <td><a href="https://letterboxd.com/anrath/film/10-things-i-hate-about-you/"><strong> ()</strong></a><br/>
-  Rating: <br/>
-  </td>
-</tr>\n\n<tr>
-  <td><a href="https://letterboxd.com/anrath/film/save-the-last-dance/"><img width="100px" src="$thumbnail"></a></td>
-  <td><a href="https://letterboxd.com/anrath/film/save-the-last-dance/"><strong> ()</strong></a><br/>
-  Rating: <br/>
-  </td>
-</tr>\n<!-- MOVIE-LIST:END -->
+<!-- MOVIE-LIST:START -->
+<!-- MOVIE-LIST:END -->
 </table>
 
 
