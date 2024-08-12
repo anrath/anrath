@@ -34,31 +34,26 @@
 
 ### 🎬 Latest Movies
 <table>
-<!-- MOVIE-LIST:START -->https://a.ltrbxd.com/resized/film-poster/1/6/0/5/3/3/160533-mcfarland-usa-0-600-0-900-crop.jpg?v=b60705c9c2, , August 11, 2024
-<tr>
-  <td><a href="https://letterboxd.com/film/mcfarland-usa/"><img width="100px" src="https://a.ltrbxd.com/resized/film-poster/1/6/0/5/3/3/160533-mcfarland-usa-0-600-0-900-crop.jpg?v=b60705c9c2, , August 11, 2024[0]"></a></td>
-  <td><a href="https://letterboxd.com/film/mcfarland-usa/"><strong>McFarland, USA, 2015 - ★★★★½ (https://a.ltrbxd.com/resized/film-poster/1/6/0/5/3/3/160533-mcfarland-usa-0-600-0-900-crop.jpg?v=b60705c9c2, , August 11, 2024[1])</strong></a><br/>
-  https://a.ltrbxd.com/resized/film-poster/1/6/0/5/3/3/160533-mcfarland-usa-0-600-0-900-crop.jpg?v=b60705c9c2, , August 11, 2024[2]</td>
-</tr>https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077, , August 10, 2024
-<tr>
-  <td><a href="https://letterboxd.com/film/pulp-fiction/"><img width="100px" src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077, , August 10, 2024[0]"></a></td>
-  <td><a href="https://letterboxd.com/film/pulp-fiction/"><strong>Pulp Fiction, 1994 - ★★★★ (https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077, , August 10, 2024[1])</strong></a><br/>
-  https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077, , August 10, 2024[2]</td>
-</tr>https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854, We're home, August 10, 2024
-<tr>
-  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/"><img width="100px" src="https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854, We're home, August 10, 2024[0]"></a></td>
-  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/"><strong>Once Upon a Time… in Hollywood, 2019 - ★★★★ (https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854, We're home, August 10, 2024[1])</strong></a><br/>
-  https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854, We're home, August 10, 2024[2]</td>
-</tr>https://a.ltrbxd.com/resized/sm/upload/hl/jj/br/9g/Kd5OkBc6GyUa1tIpxYUHLpyE2t-0-600-0-900-crop.jpg?v=a2db0a150a, , August 9, 2024
-<tr>
-  <td><a href="https://letterboxd.com/film/10-things-i-hate-about-you/"><img width="100px" src="https://a.ltrbxd.com/resized/sm/upload/hl/jj/br/9g/Kd5OkBc6GyUa1tIpxYUHLpyE2t-0-600-0-900-crop.jpg?v=a2db0a150a, , August 9, 2024[0]"></a></td>
-  <td><a href="https://letterboxd.com/film/10-things-i-hate-about-you/"><strong>10 Things I Hate About You, 1999 - ★★★★★ (https://a.ltrbxd.com/resized/sm/upload/hl/jj/br/9g/Kd5OkBc6GyUa1tIpxYUHLpyE2t-0-600-0-900-crop.jpg?v=a2db0a150a, , August 9, 2024[1])</strong></a><br/>
-  https://a.ltrbxd.com/resized/sm/upload/hl/jj/br/9g/Kd5OkBc6GyUa1tIpxYUHLpyE2t-0-600-0-900-crop.jpg?v=a2db0a150a, , August 9, 2024[2]</td>
-</tr>https://a.ltrbxd.com/resized/film-poster/4/6/7/9/8/46798-save-the-last-dance-0-600-0-900-crop.jpg?v=7b326e319c, , August 9, 2024
-<tr>
-  <td><a href="https://letterboxd.com/film/save-the-last-dance/"><img width="100px" src="https://a.ltrbxd.com/resized/film-poster/4/6/7/9/8/46798-save-the-last-dance-0-600-0-900-crop.jpg?v=7b326e319c, , August 9, 2024[0]"></a></td>
-  <td><a href="https://letterboxd.com/film/save-the-last-dance/"><strong>Save the Last Dance, 2001 - ★★★ (https://a.ltrbxd.com/resized/film-poster/4/6/7/9/8/46798-save-the-last-dance-0-600-0-900-crop.jpg?v=7b326e319c, , August 9, 2024[1])</strong></a><br/>
-  https://a.ltrbxd.com/resized/film-poster/4/6/7/9/8/46798-save-the-last-dance-0-600-0-900-crop.jpg?v=7b326e319c, , August 9, 2024[2]</td>
+<!-- MOVIE-LIST:START --><tr>
+  <td><a href="https://letterboxd.com/film/mcfarland-usa/"><img src="$post.categories"></a></td>
+  <td><a href="https://letterboxd.com/film/mcfarland-usa/"><strong>McFarland, USA, 2015 - ★★★★½ (Aug 11, 2024)</strong></a><br/>
+  $post.description</td>
+</tr><tr>
+  <td><a href="https://letterboxd.com/film/pulp-fiction/"><img src="$post.categories"></a></td>
+  <td><a href="https://letterboxd.com/film/pulp-fiction/"><strong>Pulp Fiction, 1994 - ★★★★ (Aug 10, 2024)</strong></a><br/>
+  $post.description</td>
+</tr><tr>
+  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/"><img src="$post.categories"></a></td>
+  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/"><strong>Once Upon a Time… in Hollywood, 2019 - ★★★★ (Aug 10, 2024)</strong></a><br/>
+  $post.description</td>
+</tr><tr>
+  <td><a href="https://letterboxd.com/film/10-things-i-hate-about-you/"><img src="$post.categories"></a></td>
+  <td><a href="https://letterboxd.com/film/10-things-i-hate-about-you/"><strong>10 Things I Hate About You, 1999 - ★★★★★ (Aug 9, 2024)</strong></a><br/>
+  $post.description</td>
+</tr><tr>
+  <td><a href="https://letterboxd.com/film/save-the-last-dance/"><img src="$post.categories"></a></td>
+  <td><a href="https://letterboxd.com/film/save-the-last-dance/"><strong>Save the Last Dance, 2001 - ★★★ (Aug 9, 2024)</strong></a><br/>
+  $post.description</td>
 </tr><!-- MOVIE-LIST:END -->
 </table>
 
