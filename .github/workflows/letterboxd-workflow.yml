@@ -47,8 +47,6 @@ jobs:
             // Formatting the date
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
             post.date = post.date.toLocaleDateString('en-US', options);
-
-            console.log(post);
           template: |
             <tr>
               <td style="width: 35%"><a href="$url" target="_blank"><img src="$categories"></a></td>

@@ -34,19 +34,25 @@
 
 ### 🎬 Latest Movies (Letterboxd)
 <table>
-<!-- MOVIE-LIST:START --><tr>
-  <td style="width: 35%"><a href="https://letterboxd.com/film/mcfarland-usa/" target="_blank"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/5/3/3/160533-mcfarland-usa-0-600-0-900-crop.jpg?v=b60705c9c2"></a></td>
+  <colgroup>
+    <col style="width: 35%">
+    <col style="width: 65%">
+  </colgroup>
+  <tbody>
+  <!-- MOVIE-LIST:START --><tr>
+  <td><a href="https://letterboxd.com/film/mcfarland-usa/" target="_blank"><img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/5/3/3/160533-mcfarland-usa-0-600-0-900-crop.jpg?v=b60705c9c2"></a></td>
   <td><a href="https://letterboxd.com/film/mcfarland-usa/" target="_blank"><strong>McFarland, USA, 2015 - ★★★★½</strong></a><br/>
   (Aug 11, 2024) </td>
 </tr><tr>
-  <td style="width: 35%"><a href="https://letterboxd.com/film/pulp-fiction/" target="_blank"><img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077"></a></td>
+  <td><a href="https://letterboxd.com/film/pulp-fiction/" target="_blank"><img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-600-0-900-crop.jpg?v=dee19a8077"></a></td>
   <td><a href="https://letterboxd.com/film/pulp-fiction/" target="_blank"><strong>Pulp Fiction, 1994 - ★★★★</strong></a><br/>
   (Aug 10, 2024) </td>
 </tr><tr>
-  <td style="width: 35%"><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/" target="_blank"><img src="https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854"></a></td>
+  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/" target="_blank"><img src="https://a.ltrbxd.com/resized/film-poster/3/9/7/8/5/9/397859-once-upon-a-time-in-hollywood-0-600-0-900-crop.jpg?v=f3e8612854"></a></td>
   <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/" target="_blank"><strong>Once Upon a Time… in Hollywood, 2019 - ★★★★</strong></a><br/>
   (Aug 10, 2024) We&#39;re home</td>
 </tr><!-- MOVIE-LIST:END -->
+  </tbody>
 </table>
 
 
