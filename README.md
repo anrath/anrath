@@ -35,25 +35,17 @@
 ### 🎬 Latest Movies
 <table>
 <!-- MOVIE-LIST:START --><tr>
-  <td><a href="https://letterboxd.com/film/mcfarland-usa/"><img src="$post.categories"></a></td>
-  <td><a href="https://letterboxd.com/film/mcfarland-usa/"><strong>McFarland, USA, 2015 - ★★★★½ (Aug 11, 2024)</strong></a><br/>
-  $post.description</td>
+  <td><a href="https://letterboxd.com/film/mcfarland-usa/" target="_blank"><img src="$imgSrc"></a></td>
+  <td><a href="https://letterboxd.com/film/mcfarland-usa/" target="_blank"><strong>McFarland, USA, 2015 - ★★★★½ (Aug 11, 2024)</strong></a><br/>
+  </td>
 </tr><tr>
-  <td><a href="https://letterboxd.com/film/pulp-fiction/"><img src="$post.categories"></a></td>
-  <td><a href="https://letterboxd.com/film/pulp-fiction/"><strong>Pulp Fiction, 1994 - ★★★★ (Aug 10, 2024)</strong></a><br/>
-  $post.description</td>
+  <td><a href="https://letterboxd.com/film/pulp-fiction/" target="_blank"><img src="$imgSrc"></a></td>
+  <td><a href="https://letterboxd.com/film/pulp-fiction/" target="_blank"><strong>Pulp Fiction, 1994 - ★★★★ (Aug 10, 2024)</strong></a><br/>
+  </td>
 </tr><tr>
-  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/"><img src="$post.categories"></a></td>
-  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/"><strong>Once Upon a Time… in Hollywood, 2019 - ★★★★ (Aug 10, 2024)</strong></a><br/>
-  $post.description</td>
-</tr><tr>
-  <td><a href="https://letterboxd.com/film/10-things-i-hate-about-you/"><img src="$post.categories"></a></td>
-  <td><a href="https://letterboxd.com/film/10-things-i-hate-about-you/"><strong>10 Things I Hate About You, 1999 - ★★★★★ (Aug 9, 2024)</strong></a><br/>
-  $post.description</td>
-</tr><tr>
-  <td><a href="https://letterboxd.com/film/save-the-last-dance/"><img src="$post.categories"></a></td>
-  <td><a href="https://letterboxd.com/film/save-the-last-dance/"><strong>Save the Last Dance, 2001 - ★★★ (Aug 9, 2024)</strong></a><br/>
-  $post.description</td>
+  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/" target="_blank"><img src="$imgSrc"></a></td>
+  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/" target="_blank"><strong>Once Upon a Time… in Hollywood, 2019 - ★★★★ (Aug 10, 2024)</strong></a><br/>
+  We&#39;re home</td>
 </tr><!-- MOVIE-LIST:END -->
 </table>
 
