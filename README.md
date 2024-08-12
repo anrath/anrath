@@ -30,21 +30,11 @@
 - [Website Redesign](https://blog.kasralekan.com/ideas/website-revamp/)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
-<!-- MOVIE-LIST:START --><div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <div>
-    <a href="https://letterboxd.com/film/mcfarland-usa/" target="_blank">
-      <img src="https://a.ltrbxd.com/resized/film-poster/1/6/0/5/3/3/160533-mcfarland-usa-0-600-0-900-crop.jpg?v=b60705c9c2" style="width: 10em;" alt="McFarland, USA, 2015 - ★★★★½ Poster">
-    </a>
-  </div>
-  <div>
-    <a href="https://letterboxd.com/film/mcfarland-usa/" target="_blank"><strong>McFarland, USA, 2015 - ★★★★½</strong></a><br/>
-    <em>(Aug 11, 2024)</em>
-  </div>
-</div>
-<br /><!-- MOVIE-LIST:END -->
+<!-- MOVIE-LIST:START -->
+<!-- MOVIE-LIST:END -->
+
+<br />
 
 <div align="center">
 All code produced with ❤️ 
