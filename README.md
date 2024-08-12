@@ -34,8 +34,27 @@
 
 ### 🎬 Latest Movies
 <table>
-<!-- MOVIE-LIST:START -->
-<!-- MOVIE-LIST:END -->
+<!-- MOVIE-LIST:START --><tr>
+  <td><a href="https://letterboxd.com/film/mcfarland-usa/"><img width="100px" src="$imgSrc"></a></td>
+  <td><a href="https://letterboxd.com/film/mcfarland-usa/"><strong>$filmTitle ($reviewDate)</strong></a><br/>
+  $descriptionExtractText</td>
+</tr><tr>
+  <td><a href="https://letterboxd.com/film/pulp-fiction/"><img width="100px" src="$imgSrc"></a></td>
+  <td><a href="https://letterboxd.com/film/pulp-fiction/"><strong>$filmTitle ($reviewDate)</strong></a><br/>
+  $descriptionExtractText</td>
+</tr><tr>
+  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/"><img width="100px" src="$imgSrc"></a></td>
+  <td><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/"><strong>$filmTitle ($reviewDate)</strong></a><br/>
+  $descriptionExtractText</td>
+</tr><tr>
+  <td><a href="https://letterboxd.com/film/10-things-i-hate-about-you/"><img width="100px" src="$imgSrc"></a></td>
+  <td><a href="https://letterboxd.com/film/10-things-i-hate-about-you/"><strong>$filmTitle ($reviewDate)</strong></a><br/>
+  $descriptionExtractText</td>
+</tr><tr>
+  <td><a href="https://letterboxd.com/film/save-the-last-dance/"><img width="100px" src="$imgSrc"></a></td>
+  <td><a href="https://letterboxd.com/film/save-the-last-dance/"><strong>$filmTitle ($reviewDate)</strong></a><br/>
+  $descriptionExtractText</td>
+</tr><!-- MOVIE-LIST:END -->
 </table>
 
 
