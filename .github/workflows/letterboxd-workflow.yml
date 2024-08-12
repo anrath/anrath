@@ -25,11 +25,6 @@ jobs:
           custom_tags: "filmTitle/letterboxd:filmtitle/,reviewDate/letterboxd:watcheddate/,rating/letterboxd:memberrating/"
           date_format: "mmm d, yyyy"
           item_exec: |
-            // Skip entries that are lists
-            if (post.link.includes('/list/')) {
-              post.skip = true;
-            }
-
             // Clean the description to remove image tags and auto-generated text
             post.description = post.description.replace(/<img[^>]+>/g, '');
             const autoTextPattern = /Watched on (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) (January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}\./;
