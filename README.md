@@ -30,7 +30,9 @@
 
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 <!-- MOVIE-LIST:START -->
-<!-- MOVIE-LIST:END -->
+ - [McFarland, USA, 2015 - ★★★★½](https://letterboxd.com/film/mcfarland-usa/) *(Aug 11, 2024)*
+ - [Pulp Fiction, 1994 - ★★★★](https://letterboxd.com/film/pulp-fiction/) *(Aug 10, 2024)*
+ - [Once Upon a Time… in Hollywood, 2019 - ★★★★](https://letterboxd.com/film/once-upon-a-time-in-hollywood/1/) *(Aug 10, 2024)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
