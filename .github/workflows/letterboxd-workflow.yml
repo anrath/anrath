@@ -28,11 +28,10 @@ jobs:
             // Remove /anrath from the URL
             post.url = post.url.replace(/\/anrath/g, '');
 
-            console.log(post);
             // Extracting img.src
             const imgSrcMatch = post.description.match(/<img[^>]+src="([^">]+)"/);
             post.imgSrc = imgSrcMatch ? imgSrcMatch[1] : null;
-            post.categories = post.imgSrc;
+            post.categories.push(post.imgSrc);
 
             // Extracting text within the second <p> tag (assuming it's the "Watched on" text)
             const descriptionExtractMatch = post.description.match(/<p>(.*?)<\/p>/g);
