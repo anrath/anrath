@@ -32,7 +32,7 @@ jobs:
             // Extracting img.src
             const imgSrcMatch = post.description.match(/<img[^>]+src="([^">]+)"/);
             post.imgSrc = imgSrcMatch ? imgSrcMatch[1] : null;
-            post.categories.push(post.imgSrc);
+            post.categories = post.imgSrc;
 
             // Extracting text within the second <p> tag (assuming it's the "Watched on" text)
             const descriptionExtractMatch = post.description.match(/<p>(.*?)<\/p>/g);
@@ -42,18 +42,16 @@ jobs:
             if (autoTextPattern.test(post.descriptionExtractText)) {
               post.descriptionExtractText = '';
             }
-            post.categories.push(post.descriptionExtractText);
+            post.description = post.descriptionExtractText;
 
             // Formatting the date
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
-            post.formattedDate = post.date.toLocaleDateString('en-US', options);
-            post.categories.push(post.formattedDate);
+            post.date = post.date.toLocaleDateString('en-US', options);
 
             console.log(post);
           template: |
-            $categories
             <tr>
-              <td><a href="$url"><img width="100px" src="$categories[0]"></a></td>
-              <td><a href="$url"><strong>$title ($categories[1])</strong></a><br/>
-              $categories[2]</td>
+              <td><a href="$url"><img width="100px" src="$post.categories"></a></td>
+              <td><a href="$url"><strong>$title ($date)</strong></a><br/>
+              $post.description</td>
             </tr>
