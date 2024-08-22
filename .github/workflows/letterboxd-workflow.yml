@@ -2,7 +2,7 @@ name: Update Letterboxd Reviews
 
 on:
   schedule: # Run workflow automatically
-    - cron: '0 0 * * 0' # Runs every week on Sunday at midnight
+    - cron: '0 0 * * 1,4' # Runs every week on Monday and Thursday at midnight
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 permissions:
@@ -28,31 +28,7 @@ jobs:
           item_exec: |
             // Remove /anrath from the URL
             post.url = post.url.replace(/\/anrath/g, '');
-
-            // Extracting img.src
-            // const imgSrcMatch = post.description.match(/<img[^>]+src="([^">]+)"/);
-            // post.imgSrc = imgSrcMatch ? imgSrcMatch[1] : null;
-            // post.categories.push(post.imgSrc);
-
-            // Extracting text within the second <p> tag (assuming it's the "Watched on" text)
-            // const descriptionExtractMatch = post.description.match(/<p>(.*?)<\/p>/g);
-            // post.descriptionExtractText = descriptionExtractMatch && descriptionExtractMatch.length > 1 ? descriptionExtractMatch[1].replace(/<\/?p>/g, '') : null;
-
-            // const autoTextPattern = /Watched on (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) (January|February|March|April|May|June|July|August|September|October|November|December) \d{1,2}, \d{4}\./;
-            // if (autoTextPattern.test(post.descriptionExtractText)) {
-            //   post.descriptionExtractText = '';
-            // }
-            // post.description = post.descriptionExtractText;
-
-            // Formatting the date
             const options = { year: 'numeric', month: 'long', day: 'numeric' };
             post.date = post.date.toLocaleDateString('en-US', options);
           template: |
             $newline - [$title]($url) *($date)*
-
-# <div style="display: flex; align-items: center; margin-bottom: 10px;">
-# <div>
-#   <a href="$url" target="_blank">
-#     <img src="$categories" style="width: 10em;" alt="$title Poster">
-#   </a>
-# </div>
