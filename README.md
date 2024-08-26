@@ -25,8 +25,10 @@
 
 ### 🖋️ Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Game Design is Hard](https://blog.kasralekan.com/ideas/game-design/)
 - [Langage Model Performance Plateaus. What’s next?](https://blog.kasralekan.com/ideas/lm-performance-plateau/)
 - [Website Redesign](https://blog.kasralekan.com/ideas/website-revamp/)
+- [Extending “Towards Monosemanticity”](https://blog.kasralekan.com/ideas/towards-monosemanticity/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
