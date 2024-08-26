@@ -33,9 +33,9 @@
 
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 <!-- MOVIE-LIST:START -->
- - [Apocalypse Now, 1979 - ★★★★½](https://letterboxd.com/film/apocalypse-now/) *(Aug 14, 2024)*
- - [McFarland, USA, 2015 - ★★★★½](https://letterboxd.com/film/mcfarland-usa/) *(Aug 11, 2024)*
- - [Pulp Fiction, 1994 - ★★★★★](https://letterboxd.com/film/pulp-fiction/) *(Aug 10, 2024)*<!-- MOVIE-LIST:END -->
+ - [High Noon, 1952 - ★★★★](https://letterboxd.com/film/high-noon/) *(Aug 24, 2024)*
+ - [Breakfast at Tiffany&#39;s, 1961 - ★★★★](https://letterboxd.com/film/breakfast-at-tiffanys/) *(Aug 18, 2024)*
+ - [Phantom Thread, 2017 - ★★★★](https://letterboxd.com/film/phantom-thread/) *(Aug 18, 2024)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
