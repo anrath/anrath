@@ -41,7 +41,6 @@
 ### 🖋️ Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [An Unexpected DNS Error](https://blog.kasralekan.com/ideas/optimizing-serverless/)
 - [Why Game Design is Hard](https://blog.kasralekan.com/ideas/game-design/)
 - [Langage Model Performance Plateaus. What’s next?](https://blog.kasralekan.com/ideas/lm-performance-plateau/)
