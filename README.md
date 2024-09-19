@@ -41,11 +41,11 @@
 ### 🖋️ Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Large World of Small&lpar;er&rpar; Language Models](https://blog.kasralekan.com/ideas/small-language-models/)
 - [An Unexpected DNS Error](https://blog.kasralekan.com/ideas/optimizing-serverless/)
 - [Why Game Design is Hard](https://blog.kasralekan.com/ideas/game-design/)
 - [Langage Model Performance Plateaus. What’s next?](https://blog.kasralekan.com/ideas/lm-performance-plateau/)
 - [Website Redesign](https://blog.kasralekan.com/ideas/website-revamp/)
-- [Extending “Towards Monosemanticity”](https://blog.kasralekan.com/ideas/towards-monosemanticity/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
