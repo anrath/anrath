@@ -51,9 +51,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [High Noon, 1952 - ★★★★](https://letterboxd.com/film/high-noon/) *(Aug 24, 2024)*
- - [Breakfast at Tiffany&#39;s, 1961 - ★★★★](https://letterboxd.com/film/breakfast-at-tiffanys/) *(Aug 18, 2024)*
- - [Phantom Thread, 2017 - ★★★★](https://letterboxd.com/film/phantom-thread/) *(Aug 18, 2024)*<!-- MOVIE-LIST:END -->
+ - [Rebel Ridge, 2024 - ★★★★](https://letterboxd.com/film/rebel-ridge/) *(Sep 17, 2024)*
+ - [When Harry Met Sally..., 1989 - ★★★★★](https://letterboxd.com/film/when-harry-met-sally/) *(Sep 17, 2024)*
+ - [High Noon, 1952 - ★★★★](https://letterboxd.com/film/high-noon/) *(Aug 24, 2024)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
