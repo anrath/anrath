@@ -51,9 +51,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [A New Leaf, 1971 - ★★★★](https://letterboxd.com/film/a-new-leaf/) *(Oct 6, 2024)*
  - [Captain Blood, 1935 - ★★★½](https://letterboxd.com/film/captain-blood/) *(Sep 19, 2024)*
- - [Rebel Ridge, 2024 - ★★★★](https://letterboxd.com/film/rebel-ridge/) *(Sep 17, 2024)*
- - [When Harry Met Sally..., 1989 - ★★★★★](https://letterboxd.com/film/when-harry-met-sally/) *(Sep 17, 2024)*<!-- MOVIE-LIST:END -->
+ - [Rebel Ridge, 2024 - ★★★★](https://letterboxd.com/film/rebel-ridge/) *(Sep 17, 2024)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
