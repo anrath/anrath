@@ -51,9 +51,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [Spy Game, 2001 - ★★★½](https://letterboxd.com/film/spy-game/) *(Oct 8, 2024)*
  - [A New Leaf, 1971 - ★★★★](https://letterboxd.com/film/a-new-leaf/) *(Oct 6, 2024)*
- - [Captain Blood, 1935 - ★★★½](https://letterboxd.com/film/captain-blood/) *(Sep 19, 2024)*
- - [Rebel Ridge, 2024 - ★★★★](https://letterboxd.com/film/rebel-ridge/) *(Sep 17, 2024)*<!-- MOVIE-LIST:END -->
+ - [Captain Blood, 1935 - ★★★½](https://letterboxd.com/film/captain-blood/) *(Sep 19, 2024)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
