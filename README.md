@@ -51,9 +51,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [Laura, 1944 - ★★★★](https://letterboxd.com/film/laura/) *(Oct 19, 2024)*
  - [Collateral, 2004 - ★★★★](https://letterboxd.com/film/collateral/) *(Oct 12, 2024)*
- - [Dirty Dancing, 1987 - ★★★★](https://letterboxd.com/film/dirty-dancing/) *(Oct 11, 2024)*
- - [12 Strong, 2018 - ★★★★](https://letterboxd.com/film/12-strong/) *(Oct 11, 2024)*<!-- MOVIE-LIST:END -->
+ - [Dirty Dancing, 1987 - ★★★★](https://letterboxd.com/film/dirty-dancing/) *(Oct 11, 2024)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
