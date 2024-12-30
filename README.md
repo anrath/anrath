@@ -51,9 +51,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [The Brutalist, 2024 - ★★★★½](https://letterboxd.com/film/the-brutalist/) *(Dec 26, 2024)*
  - [Christmas in Connecticut, 1945 - ★★★★](https://letterboxd.com/film/christmas-in-connecticut/) *(Dec 24, 2024)*
- - [WarGames, 1983 - ★★★½](https://letterboxd.com/film/wargames/1/) *(Nov 17, 2024)*
- - [Emilia Pérez, 2024 - ★★★½](https://letterboxd.com/film/emilia-perez/) *(Nov 7, 2024)*<!-- MOVIE-LIST:END -->
+ - [WarGames, 1983 - ★★★½](https://letterboxd.com/film/wargames/1/) *(Nov 17, 2024)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
