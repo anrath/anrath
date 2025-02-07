@@ -38,16 +38,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/anrath/README_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a> -->
 <br />
 
-### 🖋️ Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Money and Politics in US House of Representatives Elections](https://blog.kasralekan.com/ideas/money-and-politics/)
-- [The Large World of Small&lpar;er&rpar; Language Models](https://blog.kasralekan.com/ideas/small-language-models/)
-- [An Unexpected DNS Error](https://blog.kasralekan.com/ideas/optimizing-serverless/)
-- [Why Game Design is Hard](https://blog.kasralekan.com/ideas/game-design/)
-- [Langage Model Performance Plateaus. What’s next?](https://blog.kasralekan.com/ideas/lm-performance-plateau/)
-<!-- BLOG-POST-LIST:END -->
-
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
