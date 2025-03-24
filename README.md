@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [The Brutalist, 2024 - ★★★★½](https://letterboxd.com/film/the-brutalist/) *(Dec 26, 2024)*
- - [Christmas in Connecticut, 1945 - ★★★★](https://letterboxd.com/film/christmas-in-connecticut/) *(Dec 24, 2024)*
- - [WarGames, 1983 - ★★★½](https://letterboxd.com/film/wargames/1/) *(Nov 17, 2024)*<!-- MOVIE-LIST:END -->
+ - [Bill &amp; Ted&#39;s Excellent Adventure, 1989 - ★★★](https://letterboxd.com/film/bill-teds-excellent-adventure/) *(Mar 22, 2025)*
+ - [Maria, 2024 - ★★★](https://letterboxd.com/film/maria-2024/) *(Mar 20, 2025)*
+ - [Anatomy of a Murder, 1959 - ★★★★★](https://letterboxd.com/film/anatomy-of-a-murder/) *(Mar 20, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
