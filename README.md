@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [Black Widow, 1954 - ★★★½](https://letterboxd.com/film/black-widow/) *(May 12, 2025)*
- - [Bill &amp; Ted&#39;s Excellent Adventure, 1989 - ★★★](https://letterboxd.com/film/bill-teds-excellent-adventure/) *(Mar 22, 2025)*
- - [Maria, 2024 - ★★★](https://letterboxd.com/film/maria-2024/) *(Mar 20, 2025)*<!-- MOVIE-LIST:END -->
+ - [Three Colours: Blue, 1993 - ★★★★½](https://letterboxd.com/film/three-colours-blue/1/) *(May 29, 2025)*
+ - [Three Colours: Blue, 1993 - ★★★★½](https://letterboxd.com/film/three-colours-blue/) *(May 29, 2025)*
+ - [Black Widow, 1954 - ★★★½](https://letterboxd.com/film/black-widow/) *(May 12, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
