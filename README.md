@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [Three Colours: Blue, 1993 - ★★★★½](https://letterboxd.com/film/three-colours-blue/1/) *(May 29, 2025)*
- - [Three Colours: Blue, 1993 - ★★★★½](https://letterboxd.com/film/three-colours-blue/) *(May 29, 2025)*
- - [Black Widow, 1954 - ★★★½](https://letterboxd.com/film/black-widow/) *(May 12, 2025)*<!-- MOVIE-LIST:END -->
+ - [Mission: Impossible – Rogue Nation, 2015 - ★★★½](https://letterboxd.com/film/mission-impossible-rogue-nation/) *(Jun 6, 2025)*
+ - [Mission: Impossible II, 2000 - ★★★](https://letterboxd.com/film/mission-impossible-ii/) *(Jun 6, 2025)*
+ - [Mission: Impossible III, 2006 - ★★★★](https://letterboxd.com/film/mission-impossible-iii/) *(Jun 6, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
