@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [The Phoenician Scheme, 2025 - ★★★½](https://letterboxd.com/film/the-phoenician-scheme/) *(Jun 9, 2025)*
- - [Mission: Impossible – Rogue Nation, 2015 - ★★★½](https://letterboxd.com/film/mission-impossible-rogue-nation/) *(Jun 6, 2025)*
- - [Mission: Impossible II, 2000 - ★★★](https://letterboxd.com/film/mission-impossible-ii/) *(Jun 6, 2025)*<!-- MOVIE-LIST:END -->
+ - [The Breakfast Club, 1985 - ★★★★½](https://letterboxd.com/film/the-breakfast-club/) *(Jul 1, 2025)*
+ - [Se7en, 1995 - ★★★★½](https://letterboxd.com/film/se7en/) *(Jul 1, 2025)*
+ - [The Phoenician Scheme, 2025 - ★★★½](https://letterboxd.com/film/the-phoenician-scheme/) *(Jun 9, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
