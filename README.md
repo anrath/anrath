@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [Clueless, 1995 - ★★★★½](https://letterboxd.com/film/clueless/) *(Aug 27, 2025)*
  - [The Searchers, 1956 - ★★★★](https://letterboxd.com/film/the-searchers/) *(Jul 7, 2025)*
- - [The Breakfast Club, 1985 - ★★★★½](https://letterboxd.com/film/the-breakfast-club/) *(Jul 1, 2025)*
- - [Se7en, 1995 - ★★★★½](https://letterboxd.com/film/se7en/) *(Jul 1, 2025)*<!-- MOVIE-LIST:END -->
+ - [The Breakfast Club, 1985 - ★★★★½](https://letterboxd.com/film/the-breakfast-club/) *(Jul 1, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
