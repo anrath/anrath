@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [Clueless, 1995 - ★★★★½](https://letterboxd.com/film/clueless/) *(Aug 27, 2025)*
- - [The Searchers, 1956 - ★★★★](https://letterboxd.com/film/the-searchers/) *(Jul 7, 2025)*
- - [The Breakfast Club, 1985 - ★★★★½](https://letterboxd.com/film/the-breakfast-club/) *(Jul 1, 2025)*<!-- MOVIE-LIST:END -->
+ - [You&#39;ve Got Mail, 1998 - ★★★★](https://letterboxd.com/film/youve-got-mail/) *(Aug 30, 2025)*
+ - [Sabrina, 1954 - ★★★★½](https://letterboxd.com/film/sabrina/1/) *(Aug 29, 2025)*
+ - [Clueless, 1995 - ★★★★½](https://letterboxd.com/film/clueless/) *(Aug 27, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
