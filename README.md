@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [The Gorge, 2025 - ★★½](https://letterboxd.com/film/the-gorge-2025/) *(Sep 29, 2025)*
  - [Karate Kid: Legends, 2025 - ★★](https://letterboxd.com/film/karate-kid-legends/) *(Sep 28, 2025)*
- - [WarGames, 1983 - ★★★★](https://letterboxd.com/film/wargames/2/) *(Sep 19, 2025)*
- - [You&#39;ve Got Mail, 1998 - ★★★★](https://letterboxd.com/film/youve-got-mail/) *(Aug 30, 2025)*<!-- MOVIE-LIST:END -->
+ - [WarGames, 1983 - ★★★★](https://letterboxd.com/film/wargames/2/) *(Sep 19, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
