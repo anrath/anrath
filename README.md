@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [Death Becomes Her, 1992 - ★★½](https://letterboxd.com/film/death-becomes-her/) *(Nov 1, 2025)*
  - [One Battle After Another, 2025 - ★★★★½](https://letterboxd.com/film/one-battle-after-another/) *(Oct 6, 2025)*
- - [The Gorge, 2025 - ★★½](https://letterboxd.com/film/the-gorge-2025/) *(Sep 29, 2025)*
- - [Karate Kid: Legends, 2025 - ★★](https://letterboxd.com/film/karate-kid-legends/) *(Sep 28, 2025)*<!-- MOVIE-LIST:END -->
+ - [The Gorge, 2025 - ★★½](https://letterboxd.com/film/the-gorge-2025/) *(Sep 29, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
