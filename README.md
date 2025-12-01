@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [Death Becomes Her, 1992 - ★★½](https://letterboxd.com/film/death-becomes-her/) *(Nov 1, 2025)*
- - [One Battle After Another, 2025 - ★★★★½](https://letterboxd.com/film/one-battle-after-another/) *(Oct 6, 2025)*
- - [The Gorge, 2025 - ★★½](https://letterboxd.com/film/the-gorge-2025/) *(Sep 29, 2025)*<!-- MOVIE-LIST:END -->
+ - [Wicked: For Good, 2025 - ★★★★](https://letterboxd.com/film/wicked-for-good/) *(Nov 29, 2025)*
+ - [A Christmas Story, 1983 - ★★★](https://letterboxd.com/film/a-christmas-story-1983/) *(Nov 28, 2025)*
+ - [Death Becomes Her, 1992 - ★★½](https://letterboxd.com/film/death-becomes-her/) *(Nov 1, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
