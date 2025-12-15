@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [Meet Joe Black, 1998 - ★★★½](https://letterboxd.com/film/meet-joe-black/) *(Dec 12, 2025)*
  - [The Tragedy of Macbeth, 2021 - ★★★½](https://letterboxd.com/film/the-tragedy-of-macbeth/) *(Dec 4, 2025)*
- - [Wake Up Dead Man, 2025 - ★★★★½](https://letterboxd.com/film/wake-up-dead-man/) *(Dec 4, 2025)*
- - [Wicked: For Good, 2025 - ★★★★](https://letterboxd.com/film/wicked-for-good/) *(Nov 29, 2025)*<!-- MOVIE-LIST:END -->
+ - [Wake Up Dead Man, 2025 - ★★★★½](https://letterboxd.com/film/wake-up-dead-man/) *(Dec 4, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
