@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [Meet Joe Black, 1998 - ★★★½](https://letterboxd.com/film/meet-joe-black/) *(Dec 12, 2025)*
- - [The Tragedy of Macbeth, 2021 - ★★★½](https://letterboxd.com/film/the-tragedy-of-macbeth/) *(Dec 4, 2025)*
- - [Wake Up Dead Man, 2025 - ★★★★½](https://letterboxd.com/film/wake-up-dead-man/) *(Dec 4, 2025)*<!-- MOVIE-LIST:END -->
+ - [The Devil Wears Prada, 2006 - ★★★★½](https://letterboxd.com/film/the-devil-wears-prada/1/) *(Dec 19, 2025)*
+ - [Saving Private Ryan, 1998 - ★★★★½](https://letterboxd.com/film/saving-private-ryan/) *(Dec 19, 2025)*
+ - [Argo, 2012 - ★★★★](https://letterboxd.com/film/argo/) *(Dec 19, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
