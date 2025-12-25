@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [White Christmas, 1954 - ★★★★½](https://letterboxd.com/film/white-christmas/1/) *(Dec 23, 2025)*
  - [The Devil Wears Prada, 2006 - ★★★★½](https://letterboxd.com/film/the-devil-wears-prada/1/) *(Dec 19, 2025)*
- - [Saving Private Ryan, 1998 - ★★★★½](https://letterboxd.com/film/saving-private-ryan/) *(Dec 19, 2025)*
- - [Argo, 2012 - ★★★★](https://letterboxd.com/film/argo/) *(Dec 19, 2025)*<!-- MOVIE-LIST:END -->
+ - [Saving Private Ryan, 1998 - ★★★★½](https://letterboxd.com/film/saving-private-ryan/) *(Dec 19, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
