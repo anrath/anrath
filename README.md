@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [The Lord of the Rings: The Fellowship of the Ring, 2001 - ★★★½](https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/) *(Jan 11, 2026)*
  - [White Christmas, 1954 - ★★★★½](https://letterboxd.com/film/white-christmas/1/) *(Dec 23, 2025)*
- - [The Devil Wears Prada, 2006 - ★★★★½](https://letterboxd.com/film/the-devil-wears-prada/1/) *(Dec 19, 2025)*
- - [Saving Private Ryan, 1998 - ★★★★½](https://letterboxd.com/film/saving-private-ryan/) *(Dec 19, 2025)*<!-- MOVIE-LIST:END -->
+ - [The Devil Wears Prada, 2006 - ★★★★½](https://letterboxd.com/film/the-devil-wears-prada/1/) *(Dec 19, 2025)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
