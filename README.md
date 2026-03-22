@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Kasra (aka Anrath)</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Kasra</h1>
 <h3 align="left">I use ML/SW Engineering to solve problems 🫠</h3>
 
 <p align="left">
