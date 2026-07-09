@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [Big Trouble in Little China, 1986 - ★★★½](https://letterboxd.com/film/big-trouble-in-little-china/) *(Mar 22, 2026)*
- - [Project Hail Mary, 2026 - ★★★★★](https://letterboxd.com/film/project-hail-mary/) *(Mar 20, 2026)*
- - [The Lord of the Rings: The Fellowship of the Ring, 2001 - ★★★½](https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/) *(Jan 11, 2026)*<!-- MOVIE-LIST:END -->
+ - [Michael, 2026 - ★★★½](https://letterboxd.com/film/michael-2026/) *(Jul 6, 2026)*
+ - [The Devil Wears Prada 2, 2026 - ★★½](https://letterboxd.com/film/the-devil-wears-prada-2/) *(Jul 6, 2026)*
+ - [Big Trouble in Little China, 1986 - ★★★½](https://letterboxd.com/film/big-trouble-in-little-china/) *(Mar 22, 2026)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
