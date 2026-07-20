@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [The Odyssey, 2026 - ★★★★★](https://letterboxd.com/film/the-odyssey-2026/) *(Jul 17, 2026)*
  - [Michael, 2026 - ★★★½](https://letterboxd.com/film/michael-2026/) *(Jul 6, 2026)*
- - [The Devil Wears Prada 2, 2026 - ★★½](https://letterboxd.com/film/the-devil-wears-prada-2/) *(Jul 6, 2026)*
- - [Big Trouble in Little China, 1986 - ★★★½](https://letterboxd.com/film/big-trouble-in-little-china/) *(Mar 22, 2026)*<!-- MOVIE-LIST:END -->
+ - [The Devil Wears Prada 2, 2026 - ★★½](https://letterboxd.com/film/the-devil-wears-prada-2/) *(Jul 6, 2026)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
