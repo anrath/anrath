@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
- - [Boogie Nights, 1997 - ★★★★](https://letterboxd.com/film/boogie-nights/) *(Aug 30, 2026)*
- - [Contact, 1997 - ★★½](https://letterboxd.com/film/contact/) *(Jul 27, 2026)*
- - [The Odyssey, 2026 - ★★★★★](https://letterboxd.com/film/the-odyssey-2026/) *(Jul 17, 2026)*<!-- MOVIE-LIST:END -->
+ - [The Bourne Ultimatum, 2007 - ★★](https://letterboxd.com/film/the-bourne-ultimatum/) *(Oct 6, 2026)*
+ - [The Bourne Supremacy, 2004 - ★★★½](https://letterboxd.com/film/the-bourne-supremacy/) *(Oct 6, 2026)*
+ - [The Bourne Identity, 2002 - ★★★](https://letterboxd.com/film/the-bourne-identity-2002/) *(Oct 6, 2026)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
