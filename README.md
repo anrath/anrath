@@ -42,9 +42,9 @@
 ### 🎬 Latest Movies ([Letterboxd](https://letterboxd.com/anrath))
 
 <!-- MOVIE-LIST:START -->
+ - [You Can See Everything, 2026 - ★★★★★](https://letterboxd.com/film/you-can-see-everything/) *(Nov 18, 2026)*
  - [Home Alone, 1990 - ★★★★½](https://letterboxd.com/film/home-alone/) *(Nov 1, 2026)*
- - [The Bourne Ultimatum, 2007 - ★★](https://letterboxd.com/film/the-bourne-ultimatum/) *(Oct 6, 2026)*
- - [The Bourne Supremacy, 2004 - ★★★½](https://letterboxd.com/film/the-bourne-supremacy/) *(Oct 6, 2026)*<!-- MOVIE-LIST:END -->
+ - [The Bourne Ultimatum, 2007 - ★★](https://letterboxd.com/film/the-bourne-ultimatum/) *(Oct 6, 2026)*<!-- MOVIE-LIST:END -->
 
 <div align="center">
 All code produced with ❤️ 
